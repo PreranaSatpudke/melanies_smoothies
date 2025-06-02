@@ -1,0 +1,12 @@
+sources:
+  - name: pharma
+    schema: P_RAW_SCH
+    tables:
+      - name: DOCTORS
+      - name: DRUGS
+      - name: INVENTORY
+      - name: MANUFACTURERS
+      - name: PATIENTS
+      - name: PHARMACIES
+      - name: PRESCRIPTIONS
+      - name: PRESCRIPTION_ITEMS
