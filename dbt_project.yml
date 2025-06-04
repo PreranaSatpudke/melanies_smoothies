@@ -12,8 +12,8 @@ models:
       core:
         +materialized: table
 
-seeds:
-  pharma_project:
-    +schema: p_analytics_sch
-    date_dimension:
-      +quote_columns: true
+#seeds:
+#  pharma_project:
+#    +schema: p_analytics_sch
+ #   date_dimension:
+ #     +quote_columns: true
